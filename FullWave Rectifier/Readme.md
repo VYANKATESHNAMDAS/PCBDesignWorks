@@ -27,6 +27,8 @@ Clone the repository:
 git clone https://github.com/VYANKATESHNAMDAS/full-wave-rectifier.git
 
 Open the /schematic and /pcb_design files with KiCad or similar software.
+  ![RowColumnCipher image](PCB.png)
+
 Refer to the 3D views in the /3d_view folder for an understanding of component placements.
 
 ### Usage
