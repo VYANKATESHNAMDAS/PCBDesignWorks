@@ -1,6 +1,6 @@
 # PCBDesignWorks
 
-## Full-Wave Rectifier
+## 1] Full-Wave Rectifier
 This repository contains files and documentation for a Full-Wave Rectifier circuit, including its schematic, PCB layout, and 3D model.
 
 ## Project Overview
@@ -14,3 +14,4 @@ This circuit uses diodes to achieve full-wave rectification, which allows curren
 /pcb_design: Contains the PCB design files (Gerber files, etc.) for the rectifier.
 
 /3d_view: Contains 3D model views of the PCB for visual reference.
+
