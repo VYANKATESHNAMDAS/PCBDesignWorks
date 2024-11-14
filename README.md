@@ -16,6 +16,10 @@ This circuit uses diodes to achieve full-wave rectification, which allows curren
 /3d_view: Contains 3D model views of the PCB for visual reference.
 
 
+
+
+
+
 ## 2] Bridge Rectifier Project
 This project demonstrates the design and functionality of a Bridge Rectifier circuit in Proteus. 
 A bridge rectifier converts AC (Alternating Current) to DC (Direct Current), and this design includes additional components for voltage regulation and stabilization.
