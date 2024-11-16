@@ -28,3 +28,22 @@ A bridge rectifier converts AC (Alternating Current) to DC (Direct Current), and
   - Software Used: Proteus Design Suite
   - Purpose: To convert AC voltage to DC voltage using a bridge rectifier configuration, along with a voltage regulator and capacitor filters for a stable DC output.
   - Creator: Vyankatesh (VYANKII)
+
+
+## 3] Amplitude Modulation Circuit Design
+
+This project demonstrates the design and implementation of an Amplitude Modulation (AM) circuit using Proteus software.
+The project includes the schematic, PCB layout, and a 3D view for better understanding and visualization.
+
+## Project Overview
+Amplitude Modulation (AM) is a method of transmitting signals by varying the amplitude of a carrier wave in proportion to the information signal. 
+
+### This project focuses on designing a basic AM circuit with the following features:
+  - Schematic Design: Detailed circuit design of the AM modulator.
+  - PCB Layout: Properly routed and optimized PCB layout.
+  - 3D Visualization: A 3D representation of the circuit for better understanding.
+
+### Features
+  - Circuit Simulation: The AM modulation process is simulated in Proteus software.
+  - Visualization: Provides a detailed 3D view of the PCB design.
+  - Learning Aid: Suitable for students and electronics enthusiasts to learn AM modulation concepts.
