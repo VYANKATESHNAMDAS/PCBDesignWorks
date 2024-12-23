@@ -84,6 +84,20 @@ The project includes a complete circuit schematic, PCB design, and a 3D view for
   - Proteus Design Suite: For schematic, simulation, and PCB design.
 
 
+## 7] Half Adder Circuit Project
+
+This project demonstrates the design and implementation of a Half Adder circuit using Proteus software. 
+The Half Adder is a combinational circuit that performs binary addition of two input bits, producing a Sum and a Carry as outputs.
+
+### Features
+
+- Input Switches: Two single-pole double-throw (SPDT) switches for binary inputs A and B.
+
+- Logic Gates: XOR gate (74LS86) and AND gate (74LS08) for logic operations.
+
+- Output Indicators: Two LEDs to display the Sum (Green LED) and Carry (Red LED).
+
+- Proteus Design Files: Includes the schematic, PCB layout, and 3D view of the circuit.
 
 
 
