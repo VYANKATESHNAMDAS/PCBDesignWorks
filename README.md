@@ -71,7 +71,7 @@ The project includes the schematic, PCB layout, and 3D view of the design.
 ### Tools Used
   - Proteus Design Suite: For creating the schematic, PCB layout, and 3D view.
 
-## 5] Astable Multivibrator Project
+## 6] Astable Multivibrator Project
 This project demonstrates an Astable Multivibrator designed and simulated using Proteus software.
 The project includes a complete circuit schematic, PCB design, and a 3D view for better visualization of the hardware implementation.
 
