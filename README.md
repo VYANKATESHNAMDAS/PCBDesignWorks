@@ -99,7 +99,7 @@ The Half Adder is a combinational circuit that performs binary addition of two i
 
 - Proteus Design Files: Includes the schematic, PCB layout, and 3D view of the circuit.
 
-## 7] 4-Bit Binary Counter Using D Flip-Flop
+## 8] 4-Bit Binary Counter Using D Flip-Flop
 
 ### Project Description
 
