@@ -99,6 +99,46 @@ The Half Adder is a combinational circuit that performs binary addition of two i
 
 - Proteus Design Files: Includes the schematic, PCB layout, and 3D view of the circuit.
 
+## 7] 4-Bit Binary Counter Using D Flip-Flop
+
+### Project Description
+
+This project demonstrates a 4-bit binary counter implemented using D flip-flops.
+It showcases the fundamental working of sequential circuits and binary counting using LEDs. The project includes a Proteus schematic, PCB layout, and 3D view.
+
+### Features
+
+- Uses 74LS74 IC for D flip-flop functionality.
+
+- Displays binary counting (0 to 15) through four LEDs.
+
+- Clock signal input to drive the counter.
+
+- Compact circular PCB design.
+
+### Components Used
+
+- 1 ICs:
+
+    - 74LS74 (Dual D flip-flop)
+
+- 2 Passive Components:
+
+    - Resistors (330Ω) - 4 units
+
+- 3 Active Components:
+
+    - LEDs (Green) - 4 units
+
+- 4 Connectors:
+
+    - 3-pin SIL connector for clock input
+
+- 5 Power Supply:
+
+    - VCC and GND terminals for powering the circuit
+
+
 
 
 ### Author
